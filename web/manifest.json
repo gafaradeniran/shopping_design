@@ -1,6 +1,6 @@
 {
-    "name": "my_shopper_design",
-    "short_name": "my_shopper_design",
+    "name": "shopper_design",
+    "short_name": "shopper_design",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
